@@ -1,0 +1,19 @@
+section{
+    background-color: rgb(83, 75, 75);
+}
+
+.sectionClass{
+    height: 663px;
+}
+
+.clock-container {
+    text-align: center;
+    background: #20232a;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px black ;
+}
+
+.clock{
+    font-size: 30px;
+}
+
